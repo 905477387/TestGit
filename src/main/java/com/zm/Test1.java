@@ -9,7 +9,7 @@ public class Test1 {
 		
 		System.out.println("ccc");
 		
-<<<<<<< HEAD
 		System.out.println("eee");
+		System.out.println("ddd");
 	}
 }
