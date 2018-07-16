@@ -13,5 +13,6 @@ public class Test1 {
 		System.out.println("ddd");
 		
 		System.out.println("ggg");
+		System.out.println("fff");
 	}
 }
